@@ -1,0 +1,9 @@
+openai
+pandas
+sqlalchemy
+python-dotenv
+mysql-connector-python
+flask
+flask-cors
+flask_login
+flask_bcrypt
